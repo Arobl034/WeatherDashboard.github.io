@@ -1,0 +1,41 @@
+.uvindex {
+    padding: 5px;
+    color: ghostwhite;
+    border-radius: 5px;
+}
+
+.forecast {
+    background-color: royalblue;
+    margin-left: 20px;
+    border-radius: 5px;
+    color: whitesmoke;
+}
+
+.fiveday {
+    background-color: orange;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+.current {
+    border: 1px dotted black;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: orange;
+}
+
+body {
+    background-color: green;
+}
+
+.tablebackground {
+    background-color: rgb(255, 242, 224);
+}
+
+.heading {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.topheader {
+    background-color: orange;
+}
