@@ -18,6 +18,7 @@ The application's interface was built with Bulma and very minimum custom css sty
 4. If the user reloads the page, the "Recently searched cities" button group will show.
 
 ### User Interface
+!(https://user-images.githubusercontent.com/58242373/87890048-b3973d00-ca02-11ea-917c-e8ca8f3c147c.jpg)
 
 
 ### Published:
