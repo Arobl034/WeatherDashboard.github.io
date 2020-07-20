@@ -16,3 +16,6 @@ The application's interface was built with Bulma and very minimum custom css sty
 2. On first visit, the application will get the user's location via geolocation. The page will display all the weather information for that location.
 3. When the user types in a search, the location will be added to the header as a button. Each new search will add another button to the "Recently searched cities" button group. The user can click any of the buttons, and the weather information on the page will update to match the button.
 4. If the user reloads the page, the "Recently searched cities" button group will show.
+
+### Published:
+<https://arobl034.github.io/WeatherDashboard.github.io/>
